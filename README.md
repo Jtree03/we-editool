@@ -13,7 +13,7 @@
 <!-- PROJECT LOGO -->
 
 <div align="center">
-  <a href="https://github.com/wecode-bootcamp/we-editor">
+  <a href="https://github.com/wecode-bootcamp/we-editool">
     <img width="240" alt="Logo" src="https://user-images.githubusercontent.com/20152376/174044054-a0818405-4498-429e-a2bf-0c4edced080b.png">
   </a>
 
@@ -22,12 +22,12 @@
   <p align="center">
     light-weight, tagless and simple text edit tool!
     <br />
-    <a href="https://github.com/wecode-bootcamp/we-editor#about-we-editool"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/wecode-bootcamp/we-editool#about-we-editool"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/wecode-bootcamp/we-editor/issues">Report Bug</a>
+    <a href="https://github.com/wecode-bootcamp/we-editool/issues">Report Bug</a>
     ·
-    <a href="https://github.com/wecode-bootcamp/we-editor/issues">Request Feature</a>
+    <a href="https://github.com/wecode-bootcamp/we-editool/issues">Request Feature</a>
   </p>
 </div>
 
@@ -190,7 +190,7 @@ Distributed under the MIT License. See [`LICENSE`](https://choosealicense.com/li
 
 JaeJun Jo - [@jtree03](https://twitter.com/jtree03) - [wowns0903@gmail.com](mailto:wowns0903@gmail.com)
 
-Project Link: [https://github.com/wecode-bootcamp/we-editor](https://github.com/wecode-bootcamp/we-editor)
+Project Link: [https://github.com/wecode-bootcamp/we-editool](https://github.com/wecode-bootcamp/we-editool)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -198,13 +198,13 @@ Project Link: [https://github.com/wecode-bootcamp/we-editor](https://github.com/
 
 <!-- MARKDOWN LINKS -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/wecode-bootcamp/we-editor.svg?style=for-the-badge
-[contributors-url]: https://github.com/wecode-bootcamp/we-editor/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/wecode-bootcamp/we-editor.svg?style=for-the-badge
-[forks-url]: https://github.com/wecode-bootcamp/we-editor/network/members
-[stars-shield]: https://img.shields.io/github/stars/wecode-bootcamp/we-editor.svg?style=for-the-badge
-[stars-url]: https://github.com/wecode-bootcamp/we-editor/stargazers
-[issues-shield]: https://img.shields.io/github/issues/wecode-bootcamp/we-editor.svg?style=for-the-badge
-[issues-url]: https://github.com/wecode-bootcamp/we-editor/issues
-[license-shield]: https://img.shields.io/github/license/wecode-bootcamp/we-editor.svg?style=for-the-badge
-[license-url]: https://github.com/wecode-bootcamp/we-editor/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/wecode-bootcamp/we-editool.svg?style=for-the-badge
+[contributors-url]: https://github.com/wecode-bootcamp/we-editool/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/wecode-bootcamp/we-editool.svg?style=for-the-badge
+[forks-url]: https://github.com/wecode-bootcamp/we-editool/network/members
+[stars-shield]: https://img.shields.io/github/stars/wecode-bootcamp/we-editool.svg?style=for-the-badge
+[stars-url]: https://github.com/wecode-bootcamp/we-editool/stargazers
+[issues-shield]: https://img.shields.io/github/issues/wecode-bootcamp/we-editool.svg?style=for-the-badge
+[issues-url]: https://github.com/wecode-bootcamp/we-editool/issues
+[license-shield]: https://img.shields.io/github/license/wecode-bootcamp/we-editool.svg?style=for-the-badge
+[license-url]: https://github.com/wecode-bootcamp/we-editool/blob/main/LICENSE
