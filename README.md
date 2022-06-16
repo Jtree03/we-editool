@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="https://github.com/wecode-bootcamp/we-editor">
-    로고 위치
+    <img width="240" alt="Logo" src="https://user-images.githubusercontent.com/20152376/174044054-a0818405-4498-429e-a2bf-0c4edced080b.png">
   </a>
 
   <h1 align="center">we-editool</h3>
@@ -58,7 +58,7 @@
 
 ## About we-editool
 
-gif 위치
+![typing](https://user-images.githubusercontent.com/20152376/174046345-15243970-0b0a-4cc9-a351-23ba4cdb0a97.gif)
 
 **light-weight** : The package is very light, about 24KB in compression.
 
@@ -208,7 +208,3 @@ Project Link: [https://github.com/wecode-bootcamp/we-editor](https://github.com/
 [issues-url]: https://github.com/wecode-bootcamp/we-editor/issues
 [license-shield]: https://img.shields.io/github/license/wecode-bootcamp/we-editor.svg?style=for-the-badge
 [license-url]: https://github.com/wecode-bootcamp/we-editor/blob/main/LICENSE
-
-<!-- images -->
-
-[logo-image]: images/logo.png
